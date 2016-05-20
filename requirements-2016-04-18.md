@@ -152,3 +152,7 @@ For the ‘form sending’ procedure (so when data of patients are uploaded to b
 ### 38. Portal should always be compatible with all browsers
 
 Even old ones such as IE9.
+
+### 39. When adding patients in second tab would it be possible to have a tab for adding patients and a cross to remove the patient.
+
+### 40. Two new columns will be added in the the input database file by Nathalie, one representing more information about the variables and the other representing information about dutch alias for a the variable name.
