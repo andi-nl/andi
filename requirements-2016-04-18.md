@@ -105,6 +105,8 @@ Should have pre-sets (else it is not advanced settings but just settings because
 ### 24. Ellipse plots for the MNC
 
 ### 25. Results should be exportable
+"results" - data used to generate the plots and plots.
+It is tricky to export svg plots and might not be feasable.
 
 ### 26. The table can also have the filled out data (raw data).
 
