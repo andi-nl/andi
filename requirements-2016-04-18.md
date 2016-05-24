@@ -31,6 +31,7 @@ When clinician selects a test it shows up in the list on the right. From there c
 ### 7. When users are logged in
 
 Selected tests should have a window with ‘most used tests’ for each clinician.
+Nothing has been decided about implementation of the login. This feature can be implemented without login with use of browser local storage.
 
 ### 8. We would like to add introductory text (few lines) on top of this page (short instruction)
 
