@@ -26,6 +26,8 @@ Should display the entire test + variable name (Long name 1 + Long name 2 + (if 
 
 Should be drag-able to a preferred order by clinicians.
 
+When clinician selects a test it shows up in the list on the right. From there clinicians should be a. Able to rempve them by clicking a cross and b. Vertically be able to drag and drop in the order they wish. Because this makes more sense for them. So If I select tmta tmtb stroopI StroopII hey appear in the order selected. But if they want to fill out first StroopII then tmta etc they should be able to rearranged by hand. 
+
 ### 7. When users are logged in
 
 Selected tests should have a window with ‘most used tests’ for each clinician.
