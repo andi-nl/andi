@@ -98,7 +98,7 @@ Should be either one + a little ‘calendar’ to calculate age.
 
 ### 23. Advanced Settings
 
-Should have pre-sets (else it is not advanced settings but just settings because everyone has to set them). Also should allow possibility of expanding this by adding analyses options (which tests are done).
+Should have pre-sets (else it is not advanced settings but just settings because everyone has to set them). Also should allow for expanding available iptions for new types of analysis.
 
 ## Results
 
