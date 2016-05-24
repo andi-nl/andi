@@ -136,7 +136,7 @@ Can be bigger (similar to ANDI.nl).
 
 ### 34. Tests with multiple trials
 
-Should be filled in separately. The computer should calculate the total score (and compare it to the score in the normative data). For example, clinicians fill out AVLT1, AVLT2, AVLT3, AVLT4, and AVLT5 the portal calculates AVLTtotal and compares this to AVLTtotal in the database.
+Should be filled in separately. The computer should calculate the total score (and compare it to the score in the normative data). For example, clinicians fill out AVLT1, AVLT2, AVLT3, AVLT4, and AVLT5 the portal calculates AVLTtotal and compares this to AVLTtotal in the database. This needs to be implemented also in the input file. The information about which tests add up needs to be provided.
 
 ### 35. Test scores
 
