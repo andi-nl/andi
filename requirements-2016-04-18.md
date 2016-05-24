@@ -102,7 +102,7 @@ Should have pre-sets (else it is not advanced settings but just settings because
 
 ## Results
 
-### 24. Elipse plots for the MNC
+### 24. Ellipse plots for the MNC
 
 ### 25. Results should be exportable
 
