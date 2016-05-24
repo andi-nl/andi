@@ -70,7 +70,7 @@ We will look into option of excel files upload, that will simplify format detect
 
 ### 16. Date conversion
 
-Perhaps detect the date format that excel automatically uses (this is again different for Dutch/English excel).
+Date should also be in Dutch format, as other things in csv file (requirement 15)
 
 ### 17. Validate patient ID numbers (need to be unique).
 
