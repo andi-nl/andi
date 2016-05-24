@@ -113,8 +113,6 @@ It is tricky to export svg plots and might not be feasable.
 ### 27. Raw data should be exportable as well
 To `.csv` for example.
 
-### 28. Plots/results should be downloadable.
-
 ## Layout / Look
 
 ### 29. Footer
