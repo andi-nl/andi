@@ -143,6 +143,8 @@ Should be filled in separately. The computer should calculate the total score (a
 - Should be comparable pairwise (so comparing whether a score on AVLTtotal is deviant given a score on TMTb). This involves input and output issues as the clinician should be able to select a pair of tests dynamically, on which a comparison is performed. Calculating these for all combinations of tests beforehand is possible (just a little intensive); displaying the results for all possible combinations is not desirable.
 
 - Should be comparable to a group of other tests (so comparing whether a score on AVLTtotal is deviant given scores on TMTb, StroopCW and SemanticFluency). This involves more difficult input and output issues as the clinician should be able to select a combination of one test, and comparison group of tests. Calculating these for all combinations of tests and comparison groups beforehand is practically impossible.
+ 
+Future requirement, assigned to Joost.
 
 ### 36. The variable names should be made Dutch (portal can remain English).
 
