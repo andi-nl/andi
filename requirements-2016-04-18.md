@@ -65,7 +65,8 @@ The tests should be detected from this file, so they do not have to be reselecte
 
 ### 15. The csv needs to be able to be opened on *Dutch excel*
 
-Currently it is not because it is comma separated. This is confusing. So we should either add extra instructions (that they use the import wizard to use comma separated). But I would opt for using Dutch-settings as a default.
+Currently it is not because it is comma separated. This is confusing. So we should either add extra instructions (that they use the import wizard to use comma separated). Dutch setting shoud be the default bot for download and upload.
+We will look into option of excel files upload, that will simplify format detection.
 
 ### 16. Date conversion
 
