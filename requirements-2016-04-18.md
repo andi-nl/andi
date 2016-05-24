@@ -57,11 +57,7 @@ Should be `Data entry`. Entering demographic data is also data.
 
 ### 12. Rename top functions
 
-Should be `I wish to type in data` & `I wish to upload data`.
-
-### 13. If someone uses the top function to select `upload data`
-
-The entire box should be greyed out (also the test names). The `download template` section should move on top.
+Should be `I wish to type in data` & `I wish to upload data`..
 
 ### 14. If someone uploads data using a filled out template file
 
