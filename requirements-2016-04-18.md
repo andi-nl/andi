@@ -111,7 +111,8 @@ It is tricky to export svg plots and might not be feasable.
 ### 26. The table can also contain data used to generate the plots.
 
 ### 27. Raw data should be exportable as well
-To `.csv` for example.
+To `.csv` for example. Ine same way as downloading a template, so that it can be uploaded later.
+"raw data" - data entered by a clinician, 
 
 ## Layout / Look
 
