@@ -17,6 +17,8 @@ Should be searchable both by test category (as it is now) as well as by the alph
 ### 4. Selected tests
 
 Should be removable by a clickable ‘x’ next to the name.
+When you remove test in first tab it should be reflected in second tab.
+When you remove test in second tab it should be reflected in first tab.
 
 ### 5. Selected tests
 
@@ -74,9 +76,12 @@ Date should also be in Dutch format, as other things in csv file (requirement 15
 
 ~~Should check values if possible. Thus if an impossible value is filled out the website should make the box red and ask for a correction (instead of after you’ve clicked `submit`).~~
 
-### 19. The pop-up
+### 19. Missing values
 
 Where clinicians need to define their missing values (e.g. 999 or 9999 or an empty field), let them fill out multiple values. Call these not `empty fields` but `missing values`.
+
+- update the dialog about missing values when uploading the file (current version is not intuitive)
+- missing values should empty values in the table
 
 ~~### 20. What is the difference between ‘Submit’ and ‘Next’ at the bottom of this page?~~
 
@@ -84,9 +89,10 @@ Where clinicians need to define their missing values (e.g. 999 or 9999 or an emp
 
 ### 21. The fields
 
-Should have little question marks or *i* symbols to request more information.
+- should have little question marks or *i* symbols to request more information.
+ For example we’d like to have a list of `Verhage` education levels under this mark so clinicians unfamiliar with Verhage can still use the system.
 
-For example we’d like to have a list of `Verhage` education levels under this mark so clinicians unfamiliar with Verhage can still use the system.
+- demographics fields in the table should be distiguishable from the test variables 
 
 ### 22. Age and birthdate/test years
 
@@ -155,3 +161,13 @@ Even old ones such as IE9.
 ~~### 39. When adding patients in second tab would it be possible to have a tab for adding patients and a cross to remove the patient.~~
 
 ### 40. Two new columns will be added in the the input database file by Nathalie, one representing more information about the variables and the other representing information about dutch alias for a the variable name.
+
+# Requirements added after April 2016
+## Upload and download button
+
+- should be in the first tab
+- download button should be under selected tests list
+
+## tabs should not be selectable, they should only reflect where you are in the application
+## selected tests
+- should be a sum of preselected tests and tests from uploaded file
