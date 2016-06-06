@@ -55,10 +55,6 @@ Should be `Data entry`. Entering demographic data is also data.
 
 > On this screen you can add the test values and demographic information for your patients. You can either fill out the table below, or select *"I wish to upload data"*. If you wish to upload your data you can download the `.csv` template in which the test scores can be filled out. After you have saved the file you can upload it to the page by clicking *"choose file"*.  Once the file has been uploaded the screen will ask you to define your missing values. When you submit this page, the website will fill out the table with your information and you can check whether it has done so correctly.  Note that all patients need to have a `unique ID`. At the bottom of the page under *"Advanced settings"* you can change statistical settings.
 
-### 12. Rename top functions
-
-Should be `I wish to type in data` & `I wish to upload data`..
-
 ### 14. If someone uploads data using a filled out template file
 
 The tests should be detected from this file, so they do not have to be reselected in the test selection screen.
