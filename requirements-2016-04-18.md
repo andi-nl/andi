@@ -98,9 +98,9 @@ Where clinicians need to define their missing values (e.g. 999 or 9999 or an emp
 
 Should be either one + a little ‘calendar’ to calculate age.
 
-### 23. Advanced Settings
+~~### 23. Advanced Settings~~
 
-Should have pre-sets (else it is not advanced settings but just settings because everyone has to set them). Also should allow for expanding available iptions for new types of analysis.
+~~Should have pre-sets (else it is not advanced settings but just settings because everyone has to set them). Also should allow for expanding available iptions for new types of analysis.~~
 
 ## Results
 
