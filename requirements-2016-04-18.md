@@ -102,6 +102,9 @@ Should be either one + a little ‘calendar’ to calculate age.
 
 ~~Should have pre-sets (else it is not advanced settings but just settings because everyone has to set them). Also should allow for expanding available iptions for new types of analysis.~~
 
+### 41. Tab for 'Statistical settings'.
+
+
 ## Results
 
 ### 24. Ellipse plots for the MNC
