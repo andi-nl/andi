@@ -24,6 +24,8 @@ When you remove test in second tab it should be reflected in first tab.
 
 Should display the entire test + variable name (Long name 1 + Long name 2 + (if needed) Long name 3) from the template.
 
+### 43. The 'download template' button should only appear after clinicians have selected some tests. Else its just downloading an empty template which I think will be confusing.
+
 ### 6. Selected tests
 
 Should be drag-able to a preferred order by clinicians.
@@ -87,6 +89,16 @@ Where clinicians need to define their missing values (e.g. 999 or 9999 or an emp
 
 ~~I would make only `Previous` and `Next`.  By clicking `Next` you automatically submit the form.~~
 
+### 44. Going back to tab 1. 
+Clinicians should be able to go back to tab 1 and select more tests while leaving the data in tab 2 in tact.
+
+### 45. Deleting variables in tab 2
+From the tab with patient scores clinicians should be able to delete variables (by clicking 'x').
+
+### 46. Computing variables
+Some variables are computational. Which means the clinicians will fill out trial 1 2 3 4 5 and the website will do 'sum' for them. 
+
+
 ### 21. The fields
 
 - should have little question marks or *i* symbols to request more information.
@@ -120,7 +132,7 @@ It is tricky to export svg plots and might not be feasable.
 To `.csv` for example. Ine same way as downloading a template, so that it can be uploaded later.
 "raw data" - data entered by a clinician, 
 
-### 42. So aftre the tab 'Results' we should make a new tab for 'Export'. 
+### 42. So after the tab 'Results' we should make a new tab for 'Export'. 
 Here we can again let clinicians make choices what tabs and figures and for which variables they want their 'print screens'. This also 'solves' the problem that the plots on the 'Results' section are interactive but the output (word/pdf etc.) needs to be static. So instead of giving them each single plot from the elipse matrix (20x20 for example) they can choose what they want to download.
 Here there should also be a box for downloading the patient data (in csv/excel what we mentioned earlier).
 
