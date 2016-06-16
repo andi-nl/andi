@@ -102,8 +102,9 @@ Should be either one + a little ‘calendar’ to calculate age.
 
 ~~Should have pre-sets (else it is not advanced settings but just settings because everyone has to set them). Also should allow for expanding available iptions for new types of analysis.~~
 
-### 41. Tab for 'Statistical settings'.
-
+### 41. Tab for 'statistical settings'.
+So what happens is that because we have a lot of different statistics for one neuropsychological test (for example TMTa TMTb but also a difference score or total score) we need clinicians to make a selection in which of the variables they want to do computations. 
+For the univariate statistics this is no problem (we can do them on all and let users select what to display in the results section). However, for the multivariate statistics this can be problematic because all these 'computed variables' from the original trials correlate very highly with the other measures. This is not so beneficial for the multivariate statistics so we want to force a choice for the clinicians which are used for these statistics. Also this tab will have all calculations options that they can preselect (do they want univarite or multivariate? etc.). Idealy the 'Advanced Settings' from number 23 will be in this selection tab.
 
 ## Results
 
@@ -118,6 +119,10 @@ It is tricky to export svg plots and might not be feasable.
 ### 27. Raw data should be exportable as well
 To `.csv` for example. Ine same way as downloading a template, so that it can be uploaded later.
 "raw data" - data entered by a clinician, 
+
+### 42. So aftre the tab 'Results' we should make a new tab for 'Export'. 
+Here we can again let clinicians make choices what tabs and figures and for which variables they want their 'print screens'. This also 'solves' the problem that the plots on the 'Results' section are interactive but the output (word/pdf etc.) needs to be static. So instead of giving them each single plot from the elipse matrix (20x20 for example) they can choose what they want to download.
+Here there should also be a box for downloading the patient data (in csv/excel what we mentioned earlier).
 
 ## Layout / Look
 
